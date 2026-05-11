@@ -1,0 +1,6 @@
+constituency,candidate_name,party,votes,reporting_percentage,leading,source
+Bamboo Town,Patricia Deveaux,PLP,2450,62.5,TRUE,Mock
+Bamboo Town,Duane Sands,FNM,2100,62.5,FALSE,Mock
+Bamboo Town,Maria Daxon,COI,340,62.5,FALSE,Mock
+Carmichael,Keith Bell,PLP,3120,70.0,TRUE,Mock
+Carmichael,Arinthia Komolafe,FNM,2800,70.0,FALSE,Mock

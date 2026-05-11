@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "New Providence"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-77.5, 25.0],
+          [-77.2, 25.0],
+          [-77.2, 25.2],
+          [-77.5, 25.2],
+          [-77.5, 25.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Grand Bahama"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-78.9, 26.4],
+          [-78.4, 26.4],
+          [-78.4, 26.7],
+          [-78.9, 26.7],
+          [-78.9, 26.4]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island": "Family Islands"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-76.5, 23.0],
+          [-74.0, 23.0],
+          [-74.0, 25.5],
+          [-76.5, 25.5],
+          [-76.5, 23.0]
+        ]]
+      }
+    }
+  ]
+}
