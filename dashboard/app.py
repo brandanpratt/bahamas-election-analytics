@@ -93,13 +93,15 @@ def load_leaders_data():
 
 @st.cache_data(ttl=30)
 def load_map_data():
+
     query = """
     SELECT
+        constituency,
         island,
         party,
-        COUNT(*) AS seats
+        votes,
+        reporting_percentage
     FROM MARTS.CONSTITUENCY_LEADERS
-    GROUP BY island, party
     """
     return pd.read_sql(query, engine)
 
@@ -170,9 +172,16 @@ with tab1:
         df["constituency"].nunique()
     )
 
+    party_count = (
+    df[
+        df["party"] != "Independent"
+    ]["party"]
+    .nunique()
+    )
+
     col3.metric(
-        "Parties",
-        df["party"].nunique()
+        "Political Parties",
+        party_count
     )
 
     chart_df = df.copy()
@@ -269,8 +278,12 @@ with tab3:
             locations="constituency",
             featureidkey="properties.constituency",
             color="party",
-            hover_name="island",
-            hover_data=["seats"],
+            hover_name="constituency",
+            hover_data=[
+                "party",
+                "votes",
+                "reporting_percentage"
+            ],
             center={"lat": 24.25, "lon": -76.0},
             map_style="carto-positron",
             zoom=5,
