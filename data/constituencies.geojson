@@ -1,0 +1,1441 @@
+{
+  "type": "FeatureCollection",
+  "name": "bahamas_2026_constituencies_approximate",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Killarney",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.56,
+              25.089
+            ],
+            [
+              -77.48,
+              25.089
+            ],
+            [
+              -77.48,
+              25.115
+            ],
+            [
+              -77.56,
+              25.115
+            ],
+            [
+              -77.56,
+              25.089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "St. James",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.48,
+              25.089
+            ],
+            [
+              -77.4,
+              25.089
+            ],
+            [
+              -77.4,
+              25.115
+            ],
+            [
+              -77.48,
+              25.115
+            ],
+            [
+              -77.48,
+              25.089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Golden Isles",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.4,
+              25.089
+            ],
+            [
+              -77.32,
+              25.089
+            ],
+            [
+              -77.32,
+              25.115
+            ],
+            [
+              -77.4,
+              25.115
+            ],
+            [
+              -77.4,
+              25.089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Southern Shores",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.32,
+              25.089
+            ],
+            [
+              -77.24,
+              25.089
+            ],
+            [
+              -77.24,
+              25.115
+            ],
+            [
+              -77.32,
+              25.115
+            ],
+            [
+              -77.32,
+              25.089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Carmichael",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.24,
+              25.089
+            ],
+            [
+              -77.16,
+              25.089
+            ],
+            [
+              -77.16,
+              25.115
+            ],
+            [
+              -77.24,
+              25.115
+            ],
+            [
+              -77.24,
+              25.089
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Tall Pines",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.56,
+              25.063
+            ],
+            [
+              -77.48,
+              25.063
+            ],
+            [
+              -77.48,
+              25.089
+            ],
+            [
+              -77.56,
+              25.089
+            ],
+            [
+              -77.56,
+              25.063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Golden Gates",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.48,
+              25.063
+            ],
+            [
+              -77.4,
+              25.063
+            ],
+            [
+              -77.4,
+              25.089
+            ],
+            [
+              -77.48,
+              25.089
+            ],
+            [
+              -77.48,
+              25.063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Mount Moriah",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.4,
+              25.063
+            ],
+            [
+              -77.32,
+              25.063
+            ],
+            [
+              -77.32,
+              25.089
+            ],
+            [
+              -77.4,
+              25.089
+            ],
+            [
+              -77.4,
+              25.063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Garden Hills",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.32,
+              25.063
+            ],
+            [
+              -77.24,
+              25.063
+            ],
+            [
+              -77.24,
+              25.089
+            ],
+            [
+              -77.32,
+              25.089
+            ],
+            [
+              -77.32,
+              25.063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "South Beach",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.24,
+              25.063
+            ],
+            [
+              -77.16,
+              25.063
+            ],
+            [
+              -77.16,
+              25.089
+            ],
+            [
+              -77.24,
+              25.089
+            ],
+            [
+              -77.24,
+              25.063
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Fort Charlotte",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.56,
+              25.037
+            ],
+            [
+              -77.48,
+              25.037
+            ],
+            [
+              -77.48,
+              25.063
+            ],
+            [
+              -77.56,
+              25.063
+            ],
+            [
+              -77.56,
+              25.037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Bains Town and Grants Town",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.48,
+              25.037
+            ],
+            [
+              -77.4,
+              25.037
+            ],
+            [
+              -77.4,
+              25.063
+            ],
+            [
+              -77.48,
+              25.063
+            ],
+            [
+              -77.48,
+              25.037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Centreville",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.4,
+              25.037
+            ],
+            [
+              -77.32,
+              25.037
+            ],
+            [
+              -77.32,
+              25.063
+            ],
+            [
+              -77.4,
+              25.063
+            ],
+            [
+              -77.4,
+              25.037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Englerston",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.32,
+              25.037
+            ],
+            [
+              -77.24,
+              25.037
+            ],
+            [
+              -77.24,
+              25.063
+            ],
+            [
+              -77.32,
+              25.063
+            ],
+            [
+              -77.32,
+              25.037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "St. Barnabas",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.24,
+              25.037
+            ],
+            [
+              -77.16,
+              25.037
+            ],
+            [
+              -77.16,
+              25.063
+            ],
+            [
+              -77.24,
+              25.063
+            ],
+            [
+              -77.24,
+              25.037
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Pinewood",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.56,
+              25.011
+            ],
+            [
+              -77.48,
+              25.011
+            ],
+            [
+              -77.48,
+              25.037
+            ],
+            [
+              -77.56,
+              25.037
+            ],
+            [
+              -77.56,
+              25.011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Nassau Village",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.48,
+              25.011
+            ],
+            [
+              -77.4,
+              25.011
+            ],
+            [
+              -77.4,
+              25.037
+            ],
+            [
+              -77.48,
+              25.037
+            ],
+            [
+              -77.48,
+              25.011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Bamboo Town",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.4,
+              25.011
+            ],
+            [
+              -77.32,
+              25.011
+            ],
+            [
+              -77.32,
+              25.037
+            ],
+            [
+              -77.4,
+              25.037
+            ],
+            [
+              -77.4,
+              25.011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Marathon",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.32,
+              25.011
+            ],
+            [
+              -77.24,
+              25.011
+            ],
+            [
+              -77.24,
+              25.037
+            ],
+            [
+              -77.32,
+              25.037
+            ],
+            [
+              -77.32,
+              25.011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Free Town",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.24,
+              25.011
+            ],
+            [
+              -77.16,
+              25.011
+            ],
+            [
+              -77.16,
+              25.037
+            ],
+            [
+              -77.24,
+              25.037
+            ],
+            [
+              -77.24,
+              25.011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Fox Hill",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.56,
+              24.985
+            ],
+            [
+              -77.48,
+              24.985
+            ],
+            [
+              -77.48,
+              25.011
+            ],
+            [
+              -77.56,
+              25.011
+            ],
+            [
+              -77.56,
+              24.985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Elizabeth",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.48,
+              24.985
+            ],
+            [
+              -77.4,
+              24.985
+            ],
+            [
+              -77.4,
+              25.011
+            ],
+            [
+              -77.48,
+              25.011
+            ],
+            [
+              -77.48,
+              24.985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Seabreeze",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.4,
+              24.985
+            ],
+            [
+              -77.32,
+              24.985
+            ],
+            [
+              -77.32,
+              25.011
+            ],
+            [
+              -77.4,
+              25.011
+            ],
+            [
+              -77.4,
+              24.985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "St. Anne's",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.32,
+              24.985
+            ],
+            [
+              -77.24,
+              24.985
+            ],
+            [
+              -77.24,
+              25.011
+            ],
+            [
+              -77.32,
+              25.011
+            ],
+            [
+              -77.32,
+              24.985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Yamacraw",
+        "island": "New Providence",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.24,
+              24.985
+            ],
+            [
+              -77.16,
+              24.985
+            ],
+            [
+              -77.16,
+              25.011
+            ],
+            [
+              -77.24,
+              25.011
+            ],
+            [
+              -77.24,
+              24.985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "West Grand Bahama",
+        "island": "Grand Bahama",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.2,
+              26.46
+            ],
+            [
+              -78.97,
+              26.46
+            ],
+            [
+              -78.97,
+              26.76
+            ],
+            [
+              -79.2,
+              26.76
+            ],
+            [
+              -79.2,
+              26.46
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Central Grand Bahama",
+        "island": "Grand Bahama",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.97,
+              26.46
+            ],
+            [
+              -78.74,
+              26.46
+            ],
+            [
+              -78.74,
+              26.76
+            ],
+            [
+              -78.97,
+              26.76
+            ],
+            [
+              -78.97,
+              26.46
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Pineridge",
+        "island": "Grand Bahama",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.74,
+              26.46
+            ],
+            [
+              -78.51,
+              26.46
+            ],
+            [
+              -78.51,
+              26.76
+            ],
+            [
+              -78.74,
+              26.76
+            ],
+            [
+              -78.74,
+              26.46
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Marco City",
+        "island": "Grand Bahama",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.51,
+              26.46
+            ],
+            [
+              -78.28,
+              26.46
+            ],
+            [
+              -78.28,
+              26.76
+            ],
+            [
+              -78.51,
+              26.76
+            ],
+            [
+              -78.51,
+              26.46
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "East Grand Bahama",
+        "island": "Grand Bahama",
+        "source_note": "Approximate schematic polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.28,
+              26.46
+            ],
+            [
+              -78.05,
+              26.46
+            ],
+            [
+              -78.05,
+              26.76
+            ],
+            [
+              -78.28,
+              26.76
+            ],
+            [
+              -78.28,
+              26.46
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "North Abaco",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.12,
+              26.18
+            ],
+            [
+              -76.88,
+              26.18
+            ],
+            [
+              -76.88,
+              26.58
+            ],
+            [
+              -77.12,
+              26.58
+            ],
+            [
+              -77.12,
+              26.18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Central and South Abaco",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.35,
+              25.7
+            ],
+            [
+              -76.98,
+              25.7
+            ],
+            [
+              -76.98,
+              26.15
+            ],
+            [
+              -77.35,
+              26.15
+            ],
+            [
+              -77.35,
+              25.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Bimini and the Berry Islands",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.42,
+              25.56
+            ],
+            [
+              -77.62,
+              25.56
+            ],
+            [
+              -77.62,
+              26.1
+            ],
+            [
+              -79.42,
+              26.1
+            ],
+            [
+              -79.42,
+              25.56
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "North Andros",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.15,
+              24.55
+            ],
+            [
+              -77.62,
+              24.55
+            ],
+            [
+              -77.62,
+              25.23
+            ],
+            [
+              -78.15,
+              25.23
+            ],
+            [
+              -78.15,
+              24.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Central, Mangrove Cay and South Andros",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.98,
+              23.58
+            ],
+            [
+              -77.42,
+              23.58
+            ],
+            [
+              -77.42,
+              24.52
+            ],
+            [
+              -77.98,
+              24.52
+            ],
+            [
+              -77.98,
+              23.58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "North Eleuthera",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.88,
+              25.12
+            ],
+            [
+              -76.08,
+              25.12
+            ],
+            [
+              -76.08,
+              25.62
+            ],
+            [
+              -76.88,
+              25.62
+            ],
+            [
+              -76.88,
+              25.12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Central and South Eleuthera",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.38,
+              24.5
+            ],
+            [
+              -75.72,
+              24.5
+            ],
+            [
+              -75.72,
+              25.1
+            ],
+            [
+              -76.38,
+              25.1
+            ],
+            [
+              -76.38,
+              24.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Cat Island, Rum Cay and San Salvador",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.82,
+              23.72
+            ],
+            [
+              -73.9,
+              23.72
+            ],
+            [
+              -73.9,
+              24.75
+            ],
+            [
+              -75.82,
+              24.75
+            ],
+            [
+              -75.82,
+              23.72
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Exuma and Ragged Island",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.92,
+              22.05
+            ],
+            [
+              -74.95,
+              22.05
+            ],
+            [
+              -74.95,
+              24.05
+            ],
+            [
+              -76.92,
+              24.05
+            ],
+            [
+              -76.92,
+              22.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "Long Island",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.4,
+              22.82
+            ],
+            [
+              -74.72,
+              22.82
+            ],
+            [
+              -74.72,
+              23.75
+            ],
+            [
+              -75.4,
+              23.75
+            ],
+            [
+              -75.4,
+              22.82
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "constituency": "MICAL",
+        "island": "Family Islands",
+        "source_note": "Approximate island-cluster polygon based on the 2026 constituency list; refine against official boundary maps."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.65,
+              20.85
+            ],
+            [
+              -72.65,
+              20.85
+            ],
+            [
+              -72.65,
+              23.18
+            ],
+            [
+              -74.65,
+              23.18
+            ],
+            [
+              -74.65,
+              20.85
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

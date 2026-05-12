@@ -175,10 +175,21 @@ with tab1:
         df["party"].nunique()
     )
 
-    party_counts = df["party"].value_counts()
+    chart_df = df.copy()
 
-    st.subheader("Candidates by Party")
+    chart_df["party_display"] = chart_df.apply(
+        lambda row:
+            row["candidate_name"]
+            if row["party"] == "Independent"
+            else row["party"],
+        axis=1
+    )
 
+    party_counts = (
+        chart_df["party_display"]
+        .value_counts()
+    )
+    st.subheader("Candidates by Party or Independent Status")
     st.bar_chart(party_counts)
 
     majority_needed = 21
@@ -255,8 +266,8 @@ with tab3:
         fig = px.choropleth_map(
             map_df,
             geojson=geojson_data,
-            locations="island",
-            featureidkey="properties.island",
+            locations="constituency",
+            featureidkey="properties.constituency",
             color="party",
             hover_name="island",
             hover_data=["seats"],
