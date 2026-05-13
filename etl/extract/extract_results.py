@@ -188,6 +188,10 @@ def extract_results():
             race.get("constituency")
         )
 
+        if constituency == "Path to Majority Seats":
+
+            continue
+
         island = race.get("island")
 
         total_votes = race.get(
