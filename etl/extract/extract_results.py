@@ -44,7 +44,7 @@ CONSTITUENCY_MAPPING = {
         "Central Grand Bahama",
 
     "Central, Mangrove Cay, and South Andros":
-        "Central and South Andros",
+        "Mangrove Cay and South Andros",
 
     "Centreville":
         "Centreville",
@@ -85,6 +85,9 @@ CONSTITUENCY_MAPPING = {
     "Long Island":
         "Long Island",
 
+    "Mangrove Cay and South Andros":
+        "Mangrove Cay and South Andros",
+
     "Marathon":
         "Marathon",
 
@@ -92,6 +95,9 @@ CONSTITUENCY_MAPPING = {
         "Marco City",
 
     "Mayaguana, Inagua, Crooked Island, Acklins and Long Cay":
+        "MICAL",
+
+    "MICAL":
         "MICAL",
 
     "Mount Moriah":
