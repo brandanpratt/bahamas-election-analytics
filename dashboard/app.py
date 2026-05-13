@@ -82,18 +82,6 @@ def load_candidates():
     return pd.read_sql(query, engine)
 
 @st.cache_data(ttl=30)
-def load_seat_data():
-
-    query = """
-    SELECT
-        party,
-        seats_leading
-    FROM MARTS.SEAT_COUNTS
-    """
-
-    return pd.read_sql(query, engine)
-
-@st.cache_data(ttl=30)
 def load_vote_data():
 
     query = """
@@ -154,8 +142,6 @@ try:
 
     df = load_candidates()
 
-    seat_df = load_seat_data()
-
     vote_df = load_vote_data()
 
     leaders_df = load_leaders_data()
@@ -186,13 +172,6 @@ if party_filter != "All":
     df = df[
         df["party"] == party_filter
     ]
-
-    if not seat_df.empty:
-
-        seat_df = seat_df[
-            seat_df["party"]
-            == party_filter
-        ]
 
     if not vote_df.empty:
 
@@ -288,49 +267,7 @@ with tab1:
         party_counts
     )
 
-    majority_needed = 21
-
-    if seat_df.empty:
-
-        st.warning(
-            "No seat count data available yet."
-        )
-
-    else:
-
-        leading_party = (
-            seat_df.sort_values(
-                by="seats_leading",
-                ascending=False
-            ).iloc[0]
-        )
-
-        st.success(
-            f"{leading_party['party']} "
-            f"leading with "
-            f"{leading_party['seats_leading']} "
-            f"seats "
-            f"({majority_needed} needed "
-            f"for majority)"
-        )
-
 with tab2:
-
-    st.header("Seat Counts")
-
-    if seat_df.empty:
-
-        st.warning(
-            "No seat count data available."
-        )
-
-    else:
-
-        st.dataframe(seat_df)
-
-        st.bar_chart(
-            seat_df.set_index("party")
-        )
 
     st.header("Vote Share")
 
