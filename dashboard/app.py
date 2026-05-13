@@ -105,7 +105,7 @@ def load_map_data():
         island
     FROM MARTS.CONSTITUENCY_LEADERS
     """
-    return pd.read_sql(leaders_query, engine)
+    return pd.read_sql(query, engine)
 
 @st.cache_data
 def load_geojson():
@@ -284,7 +284,7 @@ with tab3:
             hover_data=[
                 "party",
                 "votes",
-                "reporting_percentage"
+                "vote_percentage"
             ],
             center={"lat": 24.25, "lon": -76.0},
             map_style="carto-positron",
