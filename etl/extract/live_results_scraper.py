@@ -16,8 +16,8 @@ HEADERS = {
 }
 
 CONSTITUENCY_MAPPING = {
-    "Bain Town and Grants Town":
-        "Bains Town and Grants Town",
+    "Bains Town and Grants Town":
+        "Bain Town and Grants Town",
 
     "Sea Breeze":
         "Seabreeze",

@@ -59,14 +59,14 @@ st.caption(
     f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
 )
 
-st.sidebar.success(
-    "Live Data Feed Connected"
+st.sidebar.info(
+    "Final Election Results Snapshot"
 )
 
-st_autorefresh(
-    interval=30000,
-    key="live_results"
-)
+# st_autorefresh(
+#     interval=30000,
+#     key="live_results"
+# )
 
 @st.cache_data(ttl=30)
 def load_candidates():

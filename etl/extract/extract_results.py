@@ -20,7 +20,7 @@ PARTY_MAPPING = {
 CONSTITUENCY_MAPPING = {
 
     "Bains Town and Grants Town":
-        "Bains Town and Grants Town",
+        "Bain Town and Grants Town",
 
     "Bamboo Town":
         "Bamboo Town",

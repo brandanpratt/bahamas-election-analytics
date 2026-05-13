@@ -15,7 +15,7 @@ HEADERS = {
 def clean_constituency(name):
 
     replacements = {
-        "Bain Town and Grants Town": "Bains Town and Grants Town",
+        "Bains Town and Grants Town": "Bains Town and Grants Town",
         "Sea Breeze": "Seabreeze",
         "Saint Barnabas": "St. Barnabas",
         "Saint Anne's": "St. Anne's",
