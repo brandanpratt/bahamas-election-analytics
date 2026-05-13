@@ -79,31 +79,33 @@ def load_vote_data():
 
 @st.cache_data(ttl=30)
 def load_leaders_data():
-    query = """
+    leaders_query ="""
     SELECT
         constituency,
         candidate_name,
         party,
         votes,
-        reporting_percentage,
+        vote_percentage,
         island
     FROM MARTS.CONSTITUENCY_LEADERS
     """
-    return pd.read_sql(query, engine)
+
+    return pd.read_sql(leaders_query, engine)
 
 @st.cache_data(ttl=30)
 def load_map_data():
 
-    query = """
+    leaders_query = """
     SELECT
         constituency,
-        island,
+        candidate_name,
         party,
         votes,
-        reporting_percentage
+        vote_percentage,
+        island
     FROM MARTS.CONSTITUENCY_LEADERS
     """
-    return pd.read_sql(query, engine)
+    return pd.read_sql(leaders_query, engine)
 
 @st.cache_data
 def load_geojson():
